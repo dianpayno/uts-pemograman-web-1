@@ -1,13 +1,10 @@
 <script lang="ts">
-// Nama : Dian Herdiana
-// NIM : 240401010381
-// Mata Kuliah : Pemrograman Web 1
-// ajdajdgdaj
 
 </script>
 
 <template>
-  <div class="w-full min-h-screen flex justify-start bg-black">
+  <NuxtLayout>
+    <div class="w-full min-h-screen flex justify-start bg-black">
     <!-- SideBar Contetnt -->
     <div class="w-[370px] min-h-screen text-white py-10 px-5">
       <!-- Avatar Summary With Image -->
@@ -186,4 +183,5 @@
       </div>
     </div>
   </div>
+  </NuxtLayout>
 </template>
