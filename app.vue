@@ -1,5 +1,6 @@
 <script lang="ts">
 
+
 </script>
 
 <template>
@@ -14,7 +15,7 @@
           class="flex justify-center items-center min-w-[70px] min-h-[70px] max-w-[70px] max-h-[70px] rounded-full p-2 border-[1px] border-white overflow-hidden"
         >
           <img
-            src="./assets/image/fotoprofile.JPG"
+             src="./assets/image/fotoprofile.JPG"
             alt="Gambar"
             class="min-w-[70px] min-h-[70px] max-w-[70px] max-h-[70px] object-cover"
           />
@@ -113,7 +114,7 @@
               class="w-[300px] h-[300px] object-cover"
             />
             <img
-              src="./assets/image/fotoProfile.JPG"
+              src="./assets/image/fotoprofile.JPG"
               alt="image3"
               class="w-[300px] h-[300px] object-cover"
             />
